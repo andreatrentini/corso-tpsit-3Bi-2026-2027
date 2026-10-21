@@ -77,3 +77,16 @@ Questo è un paragrafo normale
 > ATTENZIONE! Il programma deve essere **compilato** prima dell'esecuzione
 
 ---
+
+## Tabelle
+
+| Cognome | Nome | Voto |
+|:---|:---|---:|
+| Rossi | Marco | 9.5 |
+| Bianchi | Franco | 5 |
+
+## Checklist
+
+[x] Installazione del programma
+[x] Prima esecuzione
+[ ] Correzione degli errori
