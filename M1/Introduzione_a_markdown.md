@@ -17,7 +17,7 @@ Sono andato a capo ancora.
 
 La prossima parola è molto importante: **Markdown**
 
-Anche questa parola è importante: *gitahub*
+Anche questa parola è importante: *github*
 
 ---
 
@@ -33,3 +33,47 @@ Anche questa parola è importante: *gitahub*
   4. html
   5. css
   6. javascript 
+
+## Collegamenti
+
+[Vai a GMail](https://gmail.com)
+
+[Github](https://github.com)
+
+## Lezioni
+[Lezione 1](./documenti/lezione1.md)
+
+
+[Lezione 2](./documenti/lezione2.md)
+
+## Immagini
+
+![Questa è una bicicletta](https://ciclidalzilio.com/cdn/shop/files/1_1cc6ea06-3eb3-44bf-8d2f-53cb47a04149.jpg?v=1775829718&width=2000)
+
+![Questo è un tramonto](./documenti/immagini/tramonto.jpg)
+
+Per eseguire una copia del  progetto: `git clone http://github.com/progetto`
+
+```bash
+git add .
+git commit -m "Messaggio"
+git push
+```
+
+```java
+public class Mio_Programma {
+  public static void main(String[] args) {
+    System.out.println("Hello world!")
+  }
+}
+```
+
+```python
+print("Hello world!")
+```
+
+Questo è un paragrafo normale
+
+> ATTENZIONE! Il programma deve essere **compilato** prima dell'esecuzione
+
+---
