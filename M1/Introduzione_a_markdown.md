@@ -87,6 +87,6 @@ Questo è un paragrafo normale
 
 ## Checklist
 
-[x] Installazione del programma
-[x] Prima esecuzione
-[ ] Correzione degli errori
+- [x] Installazione del programma
+- [x] Prima esecuzione
+- [ ] Correzione degli errori
